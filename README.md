@@ -1,5 +1,5 @@
 # WeChat
-最好使用iphone11模拟机
+最好使用iphone11模拟机  
 #App概要
 仿写了微信的UI以及微信朋友圈的仿写
 
